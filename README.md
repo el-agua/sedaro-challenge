@@ -205,6 +205,12 @@ At the home page, all the different universe workspaces appear on your dashboard
 
 ![](./dashboard.png)
 
+### Future Solutions
+- The interface and existing API is designed so that the system can host multiple users, enabling collaboration on simulations as well as private and public simulations to share.
+- Since objects are stored in the database, team members could share different "Object" definitions with each other, allowing for increased productivity.
+- A small "mass" based simulation model with multiple objects was implemented, but the numerical integration can be improved, as well as the physics model.
+- More visualizations such as animation could be beneficial.
+
 
 In the simulation tab, you can access a specific universe workspace (A default one is given as part of the bootstrapping process). You can add different objects to the workspace with the add object form. for reference, the planet is of mass 500.0, and the satellite is of mass 5.0.  When you have added enough objects, you can run simulation to see the results (The simulation logic is fairly unchanged from the original, hence it is fairly instable).
 
