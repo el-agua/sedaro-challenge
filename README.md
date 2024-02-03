@@ -43,9 +43,9 @@ Holds all the route for the API to interact with HTTP requests.
 Describes the schemas used for the database tables.
 
 ### `sim.py`
-A slightly modified version of the original ```sim.py		``` code that bootstraps the database with a default universe with a Satellite and Planet.
+A slightly modified version of the original ```sim.py``` code that bootstraps the database with a default universe with a Satellite and Planet.
 ### `play.py`
-An even further modified version of the original ```sim.py		``` code that runs a certain universe's simulation. Some changes include modifying the gravity equation to support some concept of "mass", as well as more than 2 objects in space.
+An even further modified version of the original ```sim.py``` code that runs a certain universe's simulation. Some changes include modifying the gravity equation to support some concept of "mass", as well as more than 2 objects in space.
 
 ### Routes
 ## `GET /universe`
