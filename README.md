@@ -205,7 +205,7 @@ At the home page, all the different universe workspaces appear on your dashboard
 
 ![](./dashboard.png)
 
-In the simulation tab, you can access a specific universe workspace (A default one is given as part of the bootstrapping process). You can add different objects to the workspace with the add object form. for reference, the planet is of mass 500.0, and the satellite is of mass 5.0.  When you have added enough objects, you can run simulation to see the results (The simulation logic is fairly unchanged from the original, hence it is fairly instable).
+In the simulation tab, you can access a specific universe workspace (A default one is given as part of the bootstrapping process). You can add different objects to the workspace with the add object form. for reference, the planet is of mass 500.0, and the satellite is of mass 5.0.  When you have added enough objects, you can run simulation to see the results (The simulation logic is fairly unchanged from the original, hence it is fairly instable). You must run AFTER you add in new objects.
 
 ![](./sim.png)
 
